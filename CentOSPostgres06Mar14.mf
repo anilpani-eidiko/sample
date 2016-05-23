@@ -1,0 +1,2 @@
+SHA1(CentOSPostgres06Mar14.ovf)= e4e9a47e4f40825a90ee2ead4dafd27f52ed1bb5
+SHA1(CentOSPostgres06Mar14-disk1.vmdk)= ff0fcd2b16dddb68373cefa2ecf8af8c184938bd
